@@ -1,0 +1,32 @@
+_repo: The-virgin-of-the-sun-b-A-play-in-five-acts_69962
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Plumptre, Anne
+    gutenberg_agent_id: '55517'
+    url: http://www.gutenberg.org/2009/agents/55517
+creator:
+  author:
+    agent_name: Kotzebue, Augustus von
+    gutenberg_agent_id: '55516'
+    url: http://www.gutenberg.org/2009/agents/55516
+description: ''
+gutenberg_issued: '2023-02-05'
+identifiers:
+  gutenberg: '69962'
+language: en
+pgterms:marc904: https://archive.org/details/virginofsunplayi00kotz/page/n1/mode/2up
+pgterms:marc905: 20201125083859vonkotzebu
+pgterms:marc906: '1799'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited Kingdom :$bR. Phillips, $c1799.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The virgin of the sun : $b A play, in five acts'
+url: http://www.gutenberg.org/ebooks/69962
