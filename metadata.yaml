@@ -5,12 +5,17 @@ contributor:
     agent_name: Plumptre, Anne
     gutenberg_agent_id: '55517'
     url: http://www.gutenberg.org/2009/agents/55517
+covers:
+- cover_type: archival
+  image_path: 69962-h/images/cover.jpg
 creator:
   author:
     agent_name: Kotzebue, Augustus von
     gutenberg_agent_id: '55516'
     url: http://www.gutenberg.org/2009/agents/55516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69962#The-virgin-of-the-sun-b-A-play-in-five-acts
 gutenberg_issued: '2023-02-05'
 identifiers:
   gutenberg: '69962'
